@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Swipewire
+                    SWIPEWIRE
                 </div>
 
                 <div class="links">
