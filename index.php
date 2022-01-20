@@ -1,7 +1,7 @@
 <?php
 
-// echo phpinfo();
-// exit();
+echo phpinfo();
+exit();
 
 header("Access-Control-Allow-Origin: *");
 /**
